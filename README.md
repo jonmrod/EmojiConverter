@@ -1,2 +1,2 @@
-# EmojiConverter
-HackKean 2016 Project (Convert text to emojis in real time)
+# emoji converter
+* Convert text to emojis in real time
