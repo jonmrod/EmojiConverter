@@ -6,7 +6,7 @@ Convert text to emoji representations in real time!
 
 
 ### Usage
-When `emojis.js` is loaded, it will load json of emoji names and keywords, save it in a global called `allEmojis`. `allEmojis` has this structure:
+When `emojis.js` is loaded, it will load objects of emoji names and keywords, save it in a global called `allEmojis`. `allEmojis` has this structure:
 ```json
 {
   "grinning": {
@@ -22,7 +22,7 @@ When `emojis.js` is loaded, it will load json of emoji names and keywords, save 
   ...
 }
 ```
-The `emojify` api has 2 methods:
+The `emojify` api has 1 method:
   * `ShowMeAEmoji(word)` -- returns a boolean if the emoji synosym word exists in `emojis.js`, or false if it doesn't exist.
   * if the emoji exists, a `<i class>` will returned with the emoji word appended inside the class (which will show the awesome emoji), otherwise the text character will be returned
 
