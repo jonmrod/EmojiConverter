@@ -1,4 +1,4 @@
-## Emofify
+## 💾☎️👽 Emofify👻 💜🔉
 
 Convert text to emoji representations in real time!
 
