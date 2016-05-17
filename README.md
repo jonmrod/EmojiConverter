@@ -27,4 +27,4 @@ The `emojify` api has 2 methods:
   * if the emoji exists, a `<i class>` will returned with the emoji word appended inside the class (which will show the awesome emoji), otherwise the text character will be returned
 
 ##
-This was made as part of ⚡️Hack Kean 2016⚡️ and  is powered by [emojilib](https://github.com/muan/emojilib), and [emojicss] (http://afeld.github.io/emoji-css/)
+This was made as part of 🖥 Hack Kean 2016 🔌 and  is powered by [emojilib](https://github.com/muan/emojilib), and [emojicss] (http://afeld.github.io/emoji-css/)
