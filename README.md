@@ -2,7 +2,7 @@
 
 Convert text to emoji representations in real time!
 
-## Packaged demos
+## Live demo
 
 
 ### Usage
